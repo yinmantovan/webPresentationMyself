@@ -27,7 +27,7 @@ p {
     
 }
 
-h2 {
+h1 {
     text-align: center;
 }
 
@@ -148,6 +148,7 @@ a {
 }
 #portfolio .portfolio-header h1{
     margin-bottom: 50px;
+    
 }
 #portfolio .all-projects {
     display: flex;
@@ -218,7 +219,7 @@ a {
     border: 1em;
     border-color: black;
     border-style:double;
-    
+    margin-bottom: 50%;
     
 }
 
